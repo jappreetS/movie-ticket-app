@@ -1,0 +1,52 @@
+$root: ".SeatCount";
+
+#{$root} {
+  background: rgba(0, 0, 0, 0.7);
+  height: 100vh;
+  padding: 32px;
+  &-card {
+    width: 50%;
+    margin: 0 auto;
+    &__counter {
+      list-style-type: none;
+      margin-left: 0;
+      padding-left: 0;
+      padding-bottom: 32px;
+      border-bottom: 1px solid rgba(245, 245, 245, 0.7);
+      &--btn {
+        margin: 0 16px;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        background-color: #f2f2f2;
+        cursor: pointer;
+        &:hover,
+        &.active {
+          color: #fff;
+          background: #f84464;
+        }
+        &:first-child {
+          margin-left: 0;
+        }
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+    &__pricing {
+      margin-bottom: 16px;
+      &--category {
+        font-size: 12px;
+        .title {
+          color: #666;
+          text-align: center;
+          margin-bottom: 8px;
+        }
+        .price {
+          font-weight: 700;
+          color: #333;
+        }
+      }
+    }
+  }
+}

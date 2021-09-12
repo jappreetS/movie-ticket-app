@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "club",
+      "title": "CLUB",
+      "price": 200,
+      "rows": [
+        {
+          "id": "A",
+          "title": "A",
+          "start": 0,
+          "end": 14,
+          "startFrom": 0
+        },
+        {
+          "id": "B",
+          "title": "B",
+          "start": 0,
+          "end": 14,
+          "startFrom": 2
+        }
+      ]
+    },
+    {
+      "id": "premium",
+      "title": "PREMIUM",
+      "price": 170,
+      "rows": [
+        {
+          "id": "C",
+          "title": "C",
+          "start": 0,
+          "end": 14,
+          "startFrom": 6
+        },
+        {
+          "id": "D",
+          "title": "D",
+          "start": 0,
+          "end": 14,
+          "startFrom": 6
+        },
+        {
+          "id": "E",
+          "title": "E",
+          "start": 0,
+          "end": 14,
+          "startFrom": 6
+        },
+        {
+          "id": "F",
+          "title": "F",
+          "start": 0,
+          "end": 14,
+          "startFrom": 6
+        },
+        {
+          "id": "G",
+          "title": "G",
+          "start": 0,
+          "end": 14,
+          "startFrom": 2
+        },
+        {
+          "id": "H",
+          "title": "H",
+          "start": 0,
+          "end": 14,
+          "startFrom": 2
+        },
+        {
+          "id": "I",
+          "title": "I",
+          "start": 0,
+          "end": 14,
+          "startFrom": 2
+        },
+        {
+          "id": "J",
+          "title": "J",
+          "start": 0,
+          "end": 14,
+          "startFrom": 2
+        }
+      ]
+    }
+  ]
+}
