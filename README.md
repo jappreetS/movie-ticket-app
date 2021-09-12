@@ -1,3 +1,3 @@
-# bms-seat-booking
+# movie-ticket-app
 
 BookMyShow Movie Ticket Booking application using React
